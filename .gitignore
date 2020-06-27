@@ -1,0 +1,8 @@
+# Ignore object files
+*.o
+
+# Ignore the executables
+*-run
+
+# Ignore misc
+*~
