@@ -1,5 +1,3 @@
-/* pager functionality by Joseph Spainhour  spainhou@bellsouth.net */
-
 #include <stdlib.h>
 #include <ncurses.h>
 
